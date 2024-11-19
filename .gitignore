@@ -1,0 +1,12 @@
+.idea
+out/
+backend-selector.iml
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+*.pyc
+.coverage
+.DS_Store
+.python-version
+.vscode/
+venv/
